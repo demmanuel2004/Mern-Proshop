@@ -1,0 +1,17 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 0.5rem 0;
+}
+
+.rating span {
+  margin: 0.25rem;
+}
+
+.card-title {
+  color: #e4f500;
+  text-decoration: underline;
+  text-decoration-color: #3498db;
+}
